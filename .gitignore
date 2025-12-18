@@ -1,0 +1,3 @@
+# Arquivos que estão sendo ignorados pois estão incluído no gitignore.
+delete.html
+node_modules/*
