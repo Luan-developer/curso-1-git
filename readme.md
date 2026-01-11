@@ -21,3 +21,7 @@
 ###### Titulo 6
 
     h6 que é representado por seis "#"
+
+## Deixando o texto em italico e negrito:
+
+_este texto está em itálico_ e este **texto está em negrito**
