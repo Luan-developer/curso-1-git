@@ -25,3 +25,30 @@
 ## Deixando o texto em italico e negrito:
 
 _este texto está em itálico_ e este **texto está em negrito**
+
+# Exemplos de Listas ordenadas e não ordenadas
+
+### Lista de frutas
+
+* Maçã
+* Melância
+* Melão
+* Manga
+
+### Lista de numeros por extenso
+1. Um
+2. Dois
+3. Três
+4. Quatro
+5. Cinco
+6. Seis
+7. Sete
+8. Oito
+9. Nove
+10. Dez
+
+#### Imagem local
+![Logo Javascript](img/js.jpg)
+
+#### Imagem Externa
+![Logo PHP](https://www.svgrepo.com/show/452088/php.svg)
